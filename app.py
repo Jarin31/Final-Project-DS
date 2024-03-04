@@ -14,7 +14,7 @@ desc_temp = """
             ### Price Prediction App
             This app will be used by the 2DD team to predict whether the employee get a promotion or not
             #### Data Source
-            - https://raw.githubusercontent.com/Jarin31/Final-Project/main/car_price_prediction.csv
+            - https://raw.githubusercontent.com/Jarin31/Final-Project-DS/main/car_price_prediction.csv
             #### App Content
             - Exploratory Data Analysis
             - Machine Learning Section
